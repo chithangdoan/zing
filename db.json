@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "video": [
         {
             "id": "18989",
             "img": "http://dummyimage.com/244x100.png/cc0000/ffffff",
@@ -59,6 +59,104 @@
             "img": "http://dummyimage.com/125x100.png/cc0000/ffffff",
             "song": "Cat, civet",
             "singer": "5 Series"
+        }
+    ],
+    "album": [
+        {
+            "id": "9868",
+            "img": "http://dummyimage.com/170x100.png/ff4444/ffffff",
+            "song": "Paca",
+            "singer": "Escalade EXT"
+        },
+        {
+            "id": "788",
+            "img": "http://dummyimage.com/241x100.png/ff4444/ffffff",
+            "song": "Lizard, goanna",
+            "singer": "Rally Wagon 2500"
+        },
+        {
+            "id": "8436",
+            "img": "http://dummyimage.com/212x100.png/5fa2dd/ffffff",
+            "song": "Flicker, campo",
+            "singer": "Fiero"
+        },
+        {
+            "id": "2241",
+            "img": "http://dummyimage.com/129x100.png/cc0000/ffffff",
+            "song": "Skimmer, four-spotted",
+            "singer": "Corvette"
+        },
+        {
+            "id": "87899",
+            "img": "http://dummyimage.com/141x100.png/cc0000/ffffff",
+            "song": "Greater roadrunner",
+            "singer": "LHS"
+        },
+        {
+            "id": "56",
+            "img": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+            "song": "Lory, rainbow",
+            "singer": "RX Hybrid"
+        },
+        {
+            "id": "71",
+            "img": "http://dummyimage.com/198x100.png/cc0000/ffffff",
+            "song": "Sloth bear",
+            "singer": "Suburban 1500"
+        },
+        {
+            "id": "4966",
+            "img": "http://dummyimage.com/202x100.png/dddddd/000000",
+            "song": "Crane, stanley",
+            "singer": "Matrix"
+        },
+        {
+            "id": "148",
+            "img": "http://dummyimage.com/189x100.png/cc0000/ffffff",
+            "song": "Western spotted skunk",
+            "singer": "900"
+        },
+        {
+            "id": "60057",
+            "img": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
+            "song": "Argalis",
+            "singer": "Nubira"
+        },
+        {
+            "id": "38",
+            "img": "http://dummyimage.com/138x100.png/cc0000/ffffff",
+            "song": "Fox, north american red",
+            "singer": "A8"
+        },
+        {
+            "id": "1537",
+            "img": "http://dummyimage.com/218x100.png/dddddd/000000",
+            "song": "Steller's sea lion",
+            "singer": "Neon"
+        },
+        {
+            "id": "1444",
+            "img": "http://dummyimage.com/182x100.png/cc0000/ffffff",
+            "song": "Gecko, ring-tailed",
+            "singer": "Navigator"
+        },
+        {
+            "id": "73764",
+            "img": "http://dummyimage.com/161x100.png/cc0000/ffffff",
+            "song": "House crow",
+            "singer": "Impreza"
+        },
+        {
+            "id": "5",
+            "img": "http://dummyimage.com/202x100.png/dddddd/000000",
+            "song": "Dromedary camel",
+            "singer": "Mustang"
+        },
+        {
+            "id": "050",
+            "img": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+            "song": "White-nosed coatimundi",
+            "singer": "Eclipse"
         }
     ]
 }
