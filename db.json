@@ -1,5 +1,5 @@
 {
-    "video": [
+    "videos": [
         {
             "id": "18989",
             "img": "http://dummyimage.com/244x100.png/cc0000/ffffff",
@@ -61,7 +61,7 @@
             "singer": "5 Series"
         }
     ],
-    "album": [
+    "albums": [
         {
             "id": "9868",
             "img": "http://dummyimage.com/170x100.png/ff4444/ffffff",
@@ -158,5 +158,15 @@
             "song": "White-nosed coatimundi",
             "singer": "Eclipse"
         }
-    ]
+    ],
+    "languages": {
+        "English": {
+            "videoHotName": "Video Hot",
+            "albumHotName": "Album Hot"
+        },
+        "VietNam": {
+            "videoHotName": "Video Nóng",
+            "albumHotName": "Album Nóng"
+        }
+    }
 }
