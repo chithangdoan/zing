@@ -158,15 +158,5 @@
             "song": "White-nosed coatimundi",
             "singer": "Eclipse"
         }
-    ],
-    "languages": {
-        "English": {
-            "videoHotName": "Video Hot",
-            "albumHotName": "Album Hot"
-        },
-        "VietNam": {
-            "videoHotName": "Video Nóng",
-            "albumHotName": "Album Nóng"
-        }
-    }
+    ]
 }
