@@ -2,221 +2,245 @@
     "videos": [
         {
             "id": 1,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Centrocercus urophasianus",
-            "singer": "Sage hen"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Cat, toddy",
+            "singer": "Paradoxurus hermaphroditus"
         },
         {
             "id": 2,
             "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Dicrostonyx groenlandicus",
-            "singer": "Arctic lemming"
+            "song": "Weaver, chestnut",
+            "singer": "Ploceus rubiginosus"
         },
         {
             "id": 3,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Equus burchelli",
-            "singer": "Zebra, plains"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Phalarope, northern",
+            "singer": "Phalaropus lobatus"
         },
         {
             "id": 4,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Isoodon obesulus",
-            "singer": "Bandicoot, short-nosed"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Wallaby, agile",
+            "singer": "Macropus agilis"
         },
         {
             "id": 5,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Cacatua tenuirostris",
-            "singer": "Cockatoo, slender-billed"
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Little brown dove",
+            "singer": "Streptopelia senegalensis"
         },
         {
             "id": 6,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Haliaetus vocifer",
-            "singer": "African fish eagle"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Duck, comb",
+            "singer": "Sarkidornis melanotos"
         },
         {
             "id": 7,
             "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Cercopithecus aethiops",
-            "singer": "Monkey, vervet"
+            "song": "Oystercatcher, blackish",
+            "singer": "Haematopus ater"
         },
         {
             "id": 8,
-            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Myrmecophaga tridactyla",
-            "singer": "Giant anteater"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Stork, european",
+            "singer": "Ciconia ciconia"
         },
         {
             "id": 9,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Naja nivea",
-            "singer": "Cape cobra"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Barbet, levaillant's",
+            "singer": "Trachyphonus vaillantii"
         },
         {
             "id": 10,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Varanus sp.",
-            "singer": "Ground legaan"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Galapagos penguin",
+            "singer": "Spheniscus mendiculus"
         },
         {
             "id": 11,
             "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Mazama gouazoubira",
-            "singer": "Brocket, brown"
+            "song": "Australian masked owl",
+            "singer": "Tyto novaehollandiae"
         },
         {
             "id": 12,
-            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Ephippiorhynchus mycteria",
-            "singer": "Jabiru stork"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Neotropic cormorant",
+            "singer": "Phalacrocorax brasilianus"
         },
         {
             "id": 13,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Pteronura brasiliensis",
-            "singer": "Brazilian otter"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Eastern diamondback rattlesnake",
+            "singer": "Crotalus adamanteus"
         },
         {
             "id": 14,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Centrocercus urophasianus",
-            "singer": "Sage hen"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Goose, cape barren",
+            "singer": "Cereopsis novaehollandiae"
         },
         {
             "id": 15,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Dicrostonyx groenlandicus",
-            "singer": "Arctic lemming"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Dove, little brown",
+            "singer": "Streptopelia senegalensis"
         },
         {
             "id": 16,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Equus burchelli",
-            "singer": "Zebra, plains"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Pigeon, wood",
+            "singer": "Columba palumbus"
         },
         {
             "id": 17,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Isoodon obesulus",
-            "singer": "Bandicoot, short-nosed"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Stork, painted",
+            "singer": "Mycteria leucocephala"
         },
         {
             "id": 18,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Cacatua tenuirostris",
-            "singer": "Cockatoo, slender-billed"
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Giraffe",
+            "singer": "Giraffe camelopardalis"
         },
         {
             "id": 19,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Haliaetus vocifer",
-            "singer": "African fish eagle"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Pied avocet",
+            "singer": "Recurvirostra avosetta"
         },
         {
             "id": 20,
-            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Cercopithecus aethiops",
-            "singer": "Monkey, vervet"
-        },
-        {
-            "id": 21,
-            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Myrmecophaga tridactyla",
-            "singer": "Giant anteater"
-        },
-        {
-            "id": 22,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Naja nivea",
-            "singer": "Cape cobra"
-        },
-        {
-            "id": 23,
-            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
-            "song": "Varanus sp.",
-            "singer": "Ground legaan"
-        },
-        {
-            "id": 24,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Mazama gouazoubira",
-            "singer": "Brocket, brown"
-        },
-        {
-            "id": 25,
-            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
-            "song": "Ephippiorhynchus mycteria",
-            "singer": "Jabiru stork"
-        },
-        {
-            "id": 26,
-            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
-            "song": "Pteronura brasiliensis",
-            "singer": "Brazilian otter"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Blue-breasted cordon bleu",
+            "singer": "Uraeginthus angolensis"
         }
     ],
     "albums": [
         {
             "id": 1,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Acinynox jubatus",
-            "singer": "Cheetah"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Blue racer",
+            "singer": "Coluber constrictor foxii"
         },
         {
             "id": 2,
-            "img": "http://dummyimage.com/150x150.png/cc0000/ffffff",
-            "song": "Eudyptula minor",
-            "singer": "Fairy penguin"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Porcupine, african",
+            "singer": "Hystrix cristata"
         },
         {
             "id": 3,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Corvus brachyrhynchos",
-            "singer": "Crow, house"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Pied kingfisher",
+            "singer": "Ceryle rudis"
         },
         {
             "id": 4,
-            "img": "http://dummyimage.com/150x150.png/cc0000/ffffff",
-            "song": "Lamprotornis sp.",
-            "singer": "Glossy starling (unidentified)"
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Eagle, bald",
+            "singer": "Haliaeetus leucocephalus"
         },
         {
             "id": 5,
-            "img": "http://dummyimage.com/150x150.png/5fa2dd/ffffff",
-            "song": "unavailable",
-            "singer": "Caracara (unidentified)"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Slender loris",
+            "singer": "Loris tardigratus"
         },
         {
             "id": 6,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Psophia viridis",
-            "singer": "Trumpeter, dark-winged"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "White-necked raven",
+            "singer": "Corvus albicollis"
         },
         {
             "id": 7,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Psophia viridis",
-            "singer": "Trumpeter, dark-winged"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Loris, slender",
+            "singer": "Loris tardigratus"
         },
         {
             "id": 8,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Psophia viridis",
-            "singer": "Trumpeter, dark-winged"
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Springhare",
+            "singer": "Pedetes capensis"
         },
         {
             "id": 9,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Psophia viridis",
-            "singer": "Trumpeter, dark-winged"
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Otter, african clawless",
+            "singer": "Aonyx capensis"
+        },
+        {
+            "id": 10,
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Stork, black-necked",
+            "singer": "Ephippiorhynchus mycteria"
+        },
+        {
+            "id": 11,
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Sloth, hoffman's",
+            "singer": "Choloepus hoffmani"
+        },
+        {
+            "id": 12,
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Ground monitor (unidentified)",
+            "singer": "Varanus sp."
+        },
+        {
+            "id": 13,
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Common grenadier",
+            "singer": "Uraeginthus granatina"
+        },
+        {
+            "id": 14,
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Grey-footed squirrel",
+            "singer": "Paraxerus cepapi"
+        },
+        {
+            "id": 15,
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Tern, royal",
+            "singer": "Thalasseus maximus"
+        },
+        {
+            "id": 16,
+            "img": "http://dummyimage.com/200x150.png/dddddd/000000",
+            "song": "Possum, common brushtail",
+            "singer": "Trichosurus vulpecula"
+        },
+        {
+            "id": 17,
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Squirrel, nelson ground",
+            "singer": "Ammospermophilus nelsoni"
+        },
+        {
+            "id": 18,
+            "img": "http://dummyimage.com/200x150.png/cc0000/ffffff",
+            "song": "Steenbok",
+            "singer": "Raphicerus campestris"
         },
         {
             "id": 19,
-            "img": "http://dummyimage.com/150x150.png/dddddd/000000",
-            "song": "Psophia viridis",
-            "singer": "Trumpeter, dark-winged"
+            "img": "http://dummyimage.com/200x150.png/5fa2dd/ffffff",
+            "song": "Grey lourie",
+            "singer": "Lorythaixoides concolor"
+        },
+        {
+            "id": 20,
+            "img": "http://dummyimage.com/200x150.png/ff4444/ffffff",
+            "song": "Otter, brazilian",
+            "singer": "Pteronura brasiliensis"
         }
     ]
 }
