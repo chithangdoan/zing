@@ -1,3 +1,4 @@
+
 {
     "videos": [
         {
@@ -5,60 +6,7 @@
             "img": "https://bit.ly/3vPrwUN",
             "song": "Song 1 Video Hot",
             "singer": "Singer 1"
-        },
-        {
-            "id": 0.967575583139693,
-            "img": "https://shorturl.at/dgDTV",
-            "song": "Song 2 Video Hot",
-            "singer": "Singer 2"
-        },
-        {
-            "id": 0.4143773493476193,
-            "img": "https://shorturl.at/zEF57",
-            "song": "Song 3 Video Hot",
-            "singer": "Singer 3"
-        },
-        {
-            "id": 0.2994162692476774,
-            "img": "https://bit.ly/2SWdimi",
-            "song": "Song 4 Video Hot",
-            "singer": "Singer 4"
-        },
-        {
-            "id": 0.11023051914181492,
-            "img": "https://shorturl.at/cAM39",
-            "song": "Song 5 Video Hot",
-            "singer": "Singer 5"
-        },
-        {
-            "id": 0.24620840489990758,
-            "img": "https://shorturl.at/dgDTV",
-            "song": "Song 6 Video Hot",
-            "singer": "Singer 6"
-        },
-        {
-            "id": 0.4353351194236139,
-            "song": "Song 7 Video Hot",
-            "singer": "Singer 7"
-        },
-        {
-            "id": 0.06175944775511777,
-            "img": "https://shorturl.at/dvyCO",
-            "song": "Song 8 Video Hot",
-            "singer": "Singer 8"
-        },
-        {
-            "id": 0.718117198766653,
-            "img": "https://bit.ly/3icCoIh",
-            "song": "Song 9 Video Hot",
-            "singer": "Singer 9"
-        },
-        {
-            "id": 0.13300582506563097,
-            "img": "https://bit.ly/3z2sChF",
-            "song": "Song 10 Video Hot",
-            "singer": "Singer 10"
-        }
+        }   
     ],
     "albums": [
         {
@@ -66,61 +14,7 @@
             "img": "https://shorturl.at/dvyCO",
             "song": "Song 1 Album Hot",
             "singer": "Singer 1"
-        },
-        {
-            "id": 0.5857215365900752,
-            "img": "https://bit.ly/3phzH9M",
-            "song": "Song 2 Album Hot",
-            "singer": "Singer 2"
-        },
-        {
-            "id": 0.9924486890517339,
-            "img": "https://bit.ly/3yYPXAV",
-            "song": "Song 3 Album Hot",
-            "singer": "Singer 3"
-        },
-        {
-            "id": 0.22351886527499754,
-            "img": "https://shorturl.at/pvwA6",
-            "song": "Song 4 Album Hot",
-            "singer": "Singer 4"
-        },
-        {
-            "id": 0.40493141475060224,
-            "img": "https://shorturl.at/zEF57",
-            "song": "Song 5 Album Hot",
-            "singer": "Singer 5"
-        },
-        {
-            "id": 0.22706207000795198,
-            "img": "https://shorturl.at/psOX0",
-            "song": "Song 6 Album Hot",
-            "singer": "Singer 6"
-        },
-        {
-            "id": 0.1083260670138888,
-            "img": "https://shorturl.at/cAM39",
-            "song": "Song 7 Album Hot",
-            "singer": "Singer 7"
-        },
-        {
-            "id": 0.3868469412816278,
-            "img": "https://bit.ly/3ce4yio",
-            "song": "Song 8 Album Hot",
-            "singer": "Singer 8"
-        },
-        {
-            "id": 0.3336158624702419,
-            "img": "https://bit.ly/3fQmnGw",
-            "song": "Song 9 Album Hot",
-            "singer": "Singer 9"
-        },
-        {
-            "id": 0.8755523078244747,
-            "img": "https://shorturl.at/dvyCO",
-            "song": "Song 10 Album Hot",
-            "singer": "Singer 10"
-        }
+        }   
     ],
     "loves": [
         {
@@ -128,60 +22,6 @@
             "img": "https://shorturl.at/dvyCO",
             "song": "Song 1 Love Song Hot",
             "singer": "Singer 1"
-        },
-        {
-            "id": 0.5857215365900752,
-            "img": "https://bit.ly/3phzH9M",
-            "song": "Song 2 Love Song Hot",
-            "singer": "Singer 2"
-        },
-        {
-            "id": 0.9924486890517339,
-            "img": "https://bit.ly/3yYPXAV",
-            "song": "Song 3 Love Song Hot",
-            "singer": "Singer 3"
-        },
-        {
-            "id": 0.22351886527499754,
-            "img": "https://shorturl.at/pvwA6",
-            "song": "Song 4 Love Song Hot",
-            "singer": "Singer 4"
-        },
-        {
-            "id": 0.40493141475060224,
-            "img": "https://shorturl.at/zEF57",
-            "song": "Song 5 Love Song Hot",
-            "singer": "Singer 5"
-        },
-        {
-            "id": 0.22706207000795198,
-            "img": "https://shorturl.at/psOX0",
-            "song": "Song 6 Love Song Hot",
-            "singer": "Singer 6"
-        },
-        {
-            "id": 0.1083260670138888,
-            "img": "https://shorturl.at/cAM39",
-            "song": "Song 7 Love Song Hot",
-            "singer": "Singer 7"
-        },
-        {
-            "id": 0.3868469412816278,
-            "img": "https://bit.ly/3ce4yio",
-            "song": "Song 8 Love Song Hot",
-            "singer": "Singer 8"
-        },
-        {
-            "id": 0.3336158624702419,
-            "img": "https://bit.ly/3fQmnGw",
-            "song": "Song 9 Love Song Hot",
-            "singer": "Singer 9"
-        },
-        {
-            "id": 0.8755523078244747,
-            "img": "https://shorturl.at/dvyCO",
-            "song": "Song 10 Love Song Hot",
-            "singer": "Singer 10"
         }
     ]
 }
