@@ -1,4 +1,3 @@
-
 {
     "videos": [
         {
@@ -6,7 +5,31 @@
             "img": "https://bit.ly/3vPrwUN",
             "song": "Song 1 Video Hot",
             "singer": "Singer 1"
-        }   
+        },
+        {
+            "id": 0.967575583139693,
+            "img": "https://shorturl.at/dgDTV",
+            "song": "Song 2 Video Hot",
+            "singer": "Singer 2"
+        },
+        {
+            "id": 0.4143773493476193,
+            "img": "https://shorturl.at/zEF57",
+            "song": "Song 3 Video Hot",
+            "singer": "Singer 3"
+        },
+        {
+            "id": 0.2994162692476774,
+            "img": "https://bit.ly/2SWdimi",
+            "song": "Song 4 Video Hot",
+            "singer": "Singer 4"
+        },
+        {
+            "id": 0.11023051914181492,
+            "img": "https://shorturl.at/cAM39",
+            "song": "Song 5 Video Hot",
+            "singer": "Singer 5"
+        }
     ],
     "albums": [
         {
@@ -14,7 +37,31 @@
             "img": "https://shorturl.at/dvyCO",
             "song": "Song 1 Album Hot",
             "singer": "Singer 1"
-        }   
+        },
+        {
+            "id": 0.5857215365900752,
+            "img": "https://bit.ly/3phzH9M",
+            "song": "Song 2 Album Hot",
+            "singer": "Singer 2"
+        },
+        {
+            "id": 0.9924486890517339,
+            "img": "https://bit.ly/3yYPXAV",
+            "song": "Song 3 Album Hot",
+            "singer": "Singer 3"
+        },
+        {
+            "id": 0.22351886527499754,
+            "img": "https://shorturl.at/pvwA6",
+            "song": "Song 4 Album Hot",
+            "singer": "Singer 4"
+        },
+        {
+            "id": 0.40493141475060224,
+            "img": "https://shorturl.at/zEF57",
+            "song": "Song 5 Album Hot",
+            "singer": "Singer 5"
+        }
     ],
     "loves": [
         {
@@ -22,6 +69,30 @@
             "img": "https://shorturl.at/dvyCO",
             "song": "Song 1 Love Song Hot",
             "singer": "Singer 1"
+        },
+        {
+            "id": 0.5857215365900752,
+            "img": "https://bit.ly/3phzH9M",
+            "song": "Song 2 Love Song Hot",
+            "singer": "Singer 2"
+        },
+        {
+            "id": 0.9924486890517339,
+            "img": "https://bit.ly/3yYPXAV",
+            "song": "Song 3 Love Song Hot",
+            "singer": "Singer 3"
+        },
+        {
+            "id": 0.22351886527499754,
+            "img": "https://shorturl.at/pvwA6",
+            "song": "Song 4 Love Song Hot",
+            "singer": "Singer 4"
+        },
+        {
+            "id": 0.40493141475060224,
+            "img": "https://shorturl.at/zEF57",
+            "song": "Song 5 Love Song Hot",
+            "singer": "Singer 5"
         }
     ]
 }
